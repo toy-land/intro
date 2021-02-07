@@ -14,6 +14,8 @@
 * [Frontend Dockehub](https://hub.docker.com/repository/docker/osy0056/toy-land)
 * [ Backend Dockehub](https://hub.docker.com/r/toneyparky/toy-land-back)
 
+
+
 ## 🚀 Feature
 
 ### 🎡 토이랜드는 토이 프로젝트 관리 플랫폼입니다!
@@ -36,6 +38,8 @@
 
 <img src = "https://user-images.githubusercontent.com/46469385/107110040-042f9400-6888-11eb-91e8-140965da1d11.png" width="720px">
 
+
+
 ## 🛠 Stack
 
 > Application & Data
@@ -52,7 +56,7 @@
 
 
 
-## 👨🏻‍💻Members
+### 👨🏻‍💻Members
 
 <table>
   <tr>
