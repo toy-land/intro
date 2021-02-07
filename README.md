@@ -12,8 +12,8 @@
 * [Notion](https://www.notion.so/hackhackhack/ToyLand-11f8b5b5757e4307913dba48c7984e29)
 * [Concept Video](https://www.youtube.com/watch?v=Bja-6me1GT8&feature=emb_imp_woyt)
 * [API docs](https://github.com/toy-land/backend/wiki)
-* [Frontend Dockehub](https://hub.docker.com/repository/docker/osy0056/toy-land)
-* [ Backend Dockehub](https://hub.docker.com/r/toneyparky/toy-land-back)
+* [Frontend Dockerhub](https://hub.docker.com/repository/docker/osy0056/toy-land)
+* [Backend Dockerhub](https://hub.docker.com/r/toneyparky/toy-land-back)
  <br/>
  
 ## 🚀 Feature
