@@ -2,7 +2,7 @@
 
 <div align=center>
   <img src="https://user-images.githubusercontent.com/46865281/107141511-711c5a00-696c-11eb-948f-512bfe02e843.png" width="320px">
-  <h3>당신의 프로젝트가 뛰놀수 있는 곳 </h3>
+  <h3>당신의 프로젝트가 뛰놀 수 있는 곳</h3>
 </div>
 <br/>
 
@@ -12,10 +12,11 @@
 * [Notion](https://www.notion.so/hackhackhack/ToyLand-11f8b5b5757e4307913dba48c7984e29)
 * [Concept Video](https://www.youtube.com/watch?v=Bja-6me1GT8&feature=emb_imp_woyt)
 * [API docs](https://github.com/toy-land/backend/wiki)
-* [Frontend Dockerhub](https://hub.docker.com/repository/docker/osy0056/toy-land)
-* [Backend Dockerhub](https://hub.docker.com/r/toneyparky/toy-land-back)
- <br/>
- 
+* [Frontend Docker Hub](https://hub.docker.com/repository/docker/osy0056/toy-land)
+* [Backend Docker Hub](https://hub.docker.com/r/toneyparky/toy-land-back)
+
+<br/>
+
 ## 🚀 Feature
 
 ### 🎡 토이랜드는 토이 프로젝트 관리 플랫폼입니다!
@@ -26,15 +27,15 @@
 
 * GitHub API를 활용했습니다.
 * 최근 push 타임스탬프를 통해 개발이 활발한 토이 프로젝트를 확인할 수 있습니다.
-* repo 주소만 입력하면 데이터를 파싱해줍니다.
+* repo 주소만 입력하면 데이터를 파싱 해줍니다.
 
 <img src = "https://user-images.githubusercontent.com/46469385/107109971-6a67e700-6887-11eb-95ba-780dfab6a150.png" width="720px">
 
-### :email:  서비스 health check 기능 제공!
+### :email:  서비스 Health Check 기능 제공!
 
 * NCP의 메일링 서비스를 이용했습니다.
 
-* 스케줄러가 등록된 서비스의 health check 여부에 따라 제작자에게 알림 메일을 전송합니다.
+* 스케줄러가 등록된 서비스의 Health Check 여부에 따라 제작자에게 알림 메일을 전송합니다.
 
 <img src = "https://user-images.githubusercontent.com/46469385/107110040-042f9400-6888-11eb-91e8-140965da1d11.png" width="720px">
 <br/>
@@ -54,7 +55,7 @@
 <img src = "https://user-images.githubusercontent.com/46865281/107144846-3b35a080-6981-11eb-812b-fc9d4f54e032.png" width = "520px">
 <br/>
 
-### 👨🏻‍💻Team
+### 👨🏻‍💻 Team
 
 <table>
   <tr>
